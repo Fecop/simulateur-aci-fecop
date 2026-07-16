@@ -984,7 +984,7 @@
         <div class="field-icon" style="background:var(--bleu); color:var(--rouge-dark);"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/></svg></div>
         <div>
           <div class="field-label">File active (FA) de votre structure</div>
-          <div class="field-help">Nombre de patients ayant eu 2 contacts à dates différentes, quel que soit le professionnel de santé associé ou salarié de la MSP. <b style="color:#000; font-weight:700;">FA de référence nationale : 4 979.</b></div>
+          <div class="field-help">Nombre de patients ayant eu 2 contacts à dates différentes, quel que soit le professionnel de santé associé ou salarié de la MSP. <b style="color:#000; font-weight:700;">FA de référence nationale : 4 541.</b></div>
           <div class="field-note"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></svg>Pensez à informer votre file active en amont : certaines valorisations liées à cet indicateur en dépendent.</div>
         </div>
       </div>
